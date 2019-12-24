@@ -1,1 +1,1 @@
-web: gunicorn pythondjangoapp.wsgi --log-file -
+web: gunicorn gettingstarted.wsgi --log-file -

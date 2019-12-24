@@ -1,8 +1,6 @@
-
-.DS_Store
+venv
 *.pyc
-*.egg-info
-server/localdev-config.json
-credentials.json
-localdev-config.json
-server/localdev-config.json
+staticfiles
+.env
+db.sqlite3
+getting-started/*
